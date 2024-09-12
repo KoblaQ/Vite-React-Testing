@@ -4,3 +4,4 @@ Refactored codes used from these helpful websites. (Although outdated and in typ
 https://mayashavin.com/articles/test-react-hooks-with-vitest  
 https://mayashavin.com/articles/test-react-components-with-vitest 
 
+https://dev.to/mayashavin/react-component-testing-with-vitest-efficiently-296c#cleaning-up-the-dom-after-each-test
