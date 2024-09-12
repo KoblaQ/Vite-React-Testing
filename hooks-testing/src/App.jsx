@@ -1,6 +1,7 @@
 import { useMovies } from "./hooks/useMovies";
 import { useSearch } from "./hooks/useSearch";
 
+// export const App = () => {
 function App() {
   const { movies } = useMovies();
   const {
